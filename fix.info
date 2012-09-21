@@ -1,0 +1,6 @@
+name = Fix
+description = "Custom fix module"
+core = 7.x
+package = Custom
+
+files[] = fix.module
